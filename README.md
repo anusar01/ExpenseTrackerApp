@@ -1,4 +1,7 @@
 # ExpenseTrackerApp
 Expense tracker app - spendly 
 
-Installed flutter and android studio started with basics.
+Design the UI
+Define the functionalities and create frontend
+
+How to connect frontend with the backend?
